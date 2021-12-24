@@ -1,5 +1,5 @@
 - 👋 Hi, I am @DevOpsDrum, a.k.a. Mike. This account will hold projects and gists I find helpful or have used for training/learning.
-- 👀 I am interested in all things DevOps: CI/CD pipelines, automation, monitoring/alerting. I have primarily worked in the "Windows World" since 2005 and most of my experience is with Windows OS, PowerShell, and C#.
+- 👀 I am interested in all things DevOps: automation, CI/CD pipelines, monitoring/alerting. I have primarily worked in the "Windows World" since 2005 and most of my experience is with Windows OS, PowerShell, and C#.
 Since around 2018, I have been slowing gaining experience with Azure, containerization, Kubernetes, linux, and bash, and I am excited to keep the momentum going.
 - 🌱 I am currently learning Kubernetes/Helm and working towards an Azure certification.
 - 📫 You can reach me on [linkedin](https://www.linkedin.com/in/madrum/)
